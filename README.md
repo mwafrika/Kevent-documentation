@@ -51,6 +51,7 @@ To test the Kevent application you need the following information:
 
 ## Additional features
    - Password reset is available to all registered users.
+   - Without logging in, any user on the system can contact the system administrator directly about a specific package or expedition by filling out a form with the appropriate details.
 
 ## Need to see the code base ?
 For some reason, the source code for this project is private; if you are interested in seeing it, please contact me via any of the methods listed below.
