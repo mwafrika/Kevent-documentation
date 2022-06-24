@@ -16,12 +16,35 @@
 
 ## Getting Started
 
-To get the content of this project locally you need to run these commands below in your terminal.
-Before starting the steps below, be sure you have [Git](https://www.linode.com/docs/guides/how-to-install-git-on-linux-mac-and-windows/) installed.
+To test the Kevent application you need the following information:
 
-1. Download the `Zip` or clone it with `git clone https://github.com/mwafrika/OOP_School_Iibrary.git`
-2. `cd OOP_School_Iibrary`
-3. Run: `bundle install`
+### 1. Login as administrator:
+   
+   - email: admin@admin.com
+   - password: admin
+  
+ ### 2. Login as a user:
+   
+   - email: josue@gmail.com
+   - password: 123456
+
+## Access management:
+
+### 1. Admin
+- The administrator has full access to the system, It means that he can:
+  - Make a CRUD operation on Packages
+  - Make a CRUD operation on Expeditions
+  - Make a CRUD operation on Places(Locations)
+  - Update the user role
+  - Delete a user
+
+### 1. User
+- The user has limited access access to the system, It means that he can:
+  - Create booking (Expeditions and Packages)
+  - Get all bookings that belong to him
+  - Delete Booking that belong to him
+  - Edit Booking that belong to him
+  - See all the available packages and expeditions but he can do any action
 
 ## Authors
 
