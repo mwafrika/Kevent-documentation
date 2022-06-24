@@ -14,6 +14,9 @@
 - TypeORM
 - Postgres
 
+## API Documentation
+[API Dcumentation with postman](https://documenter.getpostman.com/view/6127109/UzBqq5mr) All the API used for this project are hosted on [Heroku](https://kevent-rdc.herokuapp.com) and the documentation has been generated using Postman.
+
 ## Getting Started
 
 To test the Kevent application you need the following information:
@@ -31,22 +34,25 @@ To test the Kevent application you need the following information:
 ## Access management:
 
 ### 1. Admin
-- The administrator has full access to the system, It means that he can:
-  - Make a CRUD operation on Packages
-  - Make a CRUD operation on Expeditions
-  - Make a CRUD operation on Places(Locations)
-  - Update the user role
-  - Delete a user
+- The administrator has complete access to the system, which means he may do whatever he wants with it such as.
+  - Perform a CRUD action on Packages.
+  - Perform a CRUD action on Expeditions.
+  - Perform a CRUD action on Places(Locations)
+  - Change the user role
+  - Remove a user from the system.
 
 ### 1. User
-- The user has limited access access to the system, It means that he can:
-  - Create booking (Expeditions and Packages)
-  - Get all bookings that belong to him
-  - Delete Booking that belong to him
-  - Edit Booking that belong to him
-  - See all the available packages and expeditions but he can do any action
+- The user has limited access to the system, which means he can:
+  - Make reservations for expeditions and packages.
+  - Get all reservations that belong to him
+  - Delete reservations that belong to him
+  - Edit reservations that belong to him
+  - Get all the available packages and expeditions but he can do any action
 
-## Authors
+## Additional features
+   - Password reset is available to all registered users.
+
+## Author
 
 👤 **Mwafrika Josue**
 
@@ -54,19 +60,13 @@ To test the Kevent application you need the following information:
 - Twitter: [@mwafrika](@mwafrikamufung1)
 - LinkedIn: [Mwafrika Mufungizi](https://www.linkedin.com/in/mwafrika-mufungizi/)
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/mwafrika/OOP_School_Iibrary/issues).
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
 ## Acknowledgements
 
-- Thanks to everyone who will get time to check this project especially to code reviewers.
+- Thanks to everyone who will get time to check this project especially to recruiters.
 
 ## 📝 License
 
