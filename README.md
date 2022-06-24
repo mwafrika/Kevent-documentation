@@ -1,7 +1,5 @@
 # Kevent-documentation
 
-# OOP school library
-
 ## Description
 
 > In this project we learned the basic concepts of the object oriented programming language using Ruby such as Association, aggregation, and composition.
@@ -26,12 +24,6 @@ Before starting the steps below, be sure you have [Git](https://www.linode.com/d
 - GitHub: [@mwafrika](https://github.com/mwafrika)
 - Twitter: [@mwafrika](@mwafrikamufung1)
 - LinkedIn: [Mwafrika Mufungizi](https://www.linkedin.com/in/mwafrika-mufungizi/)
-
-👤 **Dire Akanbi**
-
-- LinkedIn: [Akanbi Dire](https://www.linkedin.com/in/dire-akanbi/)
-- Twitter: [@DireAkanbi](@DireAkanbi)
-- GitHub: [@direakanbi](https://github.com/direakanbi)
 
 ## 🤝 Contributing
 
