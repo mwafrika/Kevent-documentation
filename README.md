@@ -2,7 +2,7 @@
 
 ## Description
 
-> Kevent is a full-stack tourism application that helps you find the best places to visit in your area based on your preferences.
+> Kevent is a full-stack tourism software that helps you find the best places to visit in your area based on your preferences.
 
 ## Built With
 
