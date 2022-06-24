@@ -52,6 +52,9 @@ To test the Kevent application you need the following information:
 ## Additional features
    - Password reset is available to all registered users.
 
+## Need to see the code base ?
+For some reason, the source code for this project is private; if you are interested in seeing it, please contact me via any of the methods listed below.
+
 ## Author
 
 👤 **Mwafrika Josue**
