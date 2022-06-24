@@ -2,11 +2,17 @@
 
 ## Description
 
-> In this project we learned the basic concepts of the object oriented programming language using Ruby such as Association, aggregation, and composition.
+> Kevent is a tourism app that helps you find the best places to visit in your area based on your preferences.
 
 ## Built With
 
-- Ruby
+- TypeScript
+- React
+- Express
+- Redux
+- TailwindCSS
+- TypeORM
+- Postgres
 
 ## Getting Started
 
